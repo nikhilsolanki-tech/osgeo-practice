@@ -1,3 +1,3 @@
 # osgeo-practice
 My prepration reprository for Google Summer of Code (GSoc) 2027.
-Targeting OSGeo sub-prijects using Python.
+Targeting OSGeo sub-projects using Python.
